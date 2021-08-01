@@ -1,5 +1,5 @@
 # QuickAccessPrefabs
-Used to easily add and replace prefabs using the Unity Quick Access Menu.
+Used to easily add and replace prefabs using the Unity Quick Access Menu. Property of Poly Fruit Studios Ltd.
 
 ## Table of Contents
 <details>
